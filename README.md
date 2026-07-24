@@ -1,4 +1,3 @@
-# Walmart-Sales-Forecasting
 # Walmart Sales Forecasting
 
 This project focuses on forecasting Walmart store sales using historical data, statistical analysis, and machine learning techniques.
@@ -27,6 +26,11 @@ This project focuses on forecasting Walmart store sales using historical data, s
 * Feature Engineering
 * Predictive Modeling
 * Dashboard Development
+
+## Results
+
+The project evaluates different forecasting models and visualizes key business insights through interactive Power BI dashboards.
+
 
 ## Results
 
