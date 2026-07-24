@@ -1,0 +1,4 @@
+¿Qué tiendas venden más?
+¿Qué departamentos generan más ingresos?
+¿Cómo afectan los feriados a las ventas?
+¿Qué variables tienen más relación con Weekly_Sales?
